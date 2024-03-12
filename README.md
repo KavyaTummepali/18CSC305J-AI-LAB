@@ -1,3 +1,5 @@
+# 18CSC305J-AI-LAB 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 | Ex | Assignment | Link |
 | --- | --- | --- |
 | 1 | IMPLEMENTATION OF TOY PROBLEMS | [View➚](./EXP1) |
