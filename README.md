@@ -8,4 +8,4 @@
 | 4 | BFS AND DFS | [View➚](./EXP4) |
 | 5 | BEST FIRST SEARCH AND A* | [View➚](./EXP5) |
 | 6 | UNIFICATION PROBLEM | [View➚](./EXP6) |
-| 7 | Implementation of uncertain methods for an application (Montey Hall) | [View➚](./EXP7) |
+| 7 | MONTEY HALL PROBLEM | [View➚](./EXP7) |
