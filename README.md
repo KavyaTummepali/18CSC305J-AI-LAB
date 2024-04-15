@@ -8,7 +8,7 @@
 | 4 | BFS AND DFS | [View➚](./EXP4) |
 | 5 | BEST FIRST SEARCH AND A* | [View➚](./EXP5) |
 | 6 | UNIFICATION PROBLEM | [View➚](./EXP6) |
-| 7 | MONTEY HALL PROBLEM | [View➚](./EXP7) |
+| 7 | Montey Hall Problem | [View➚](./EXP7) |
 | 8 |Implementation of learning algorithms | [View➚](./EXP8) |
 | 9 |Implementation of NLP Algorithm | [View➚](./EXP9) |
 
